@@ -109,8 +109,8 @@ customLinks:
 
 #comment config
 disqus:
-  config: false
-  id: minixalpha
+  config: true
+  id: zb737472783
 
 
 #################################### global configure #######################################
