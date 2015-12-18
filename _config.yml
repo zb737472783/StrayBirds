@@ -109,7 +109,7 @@ customLinks:
 
 #comment config
 disqus:
-  config: false
+  config: minixalpha
   id: zb737472783
 
 
