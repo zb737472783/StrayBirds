@@ -116,7 +116,7 @@ disqus:
 #################################### global configure #######################################
 
 username: 星尘
-baseurl: /StrayBirds
+baseurl: /zbBlog
 markdown: redcarpet
 safe: false
 highlighter: pygments
